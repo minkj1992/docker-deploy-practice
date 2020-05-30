@@ -28,7 +28,7 @@ Dockerfile을 실행하고 있을때는 interaction 관련해서는 `noninteract
 root@ip-172-31-39-160:/home/ubuntu/example# docker run -p 80:80 -v /home/ubuntu/example/html:/var/www/html example
 ```
 
-![](./img/4/php-index.png)
+![](./img/4/php-index1.png)
 
 `/home/ubuntu/example/html/index.php`
 ```php
